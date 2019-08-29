@@ -1,0 +1,6 @@
+﻿  qtlayerout.cpp
+d:\bindata\opencv\opencv31contrib\opencv_contrib\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\bindata\opencv\opencv31contrib\opencv_contrib\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\bindata\opencv\opencv31contrib\opencv_contrib\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\bindata\opencv\opencv31contrib\opencv_contrib\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QTLayerOut.vcxproj -> E:\Algorithm\QTDataProcessing\QTLayerOut\x64\Release\QTLayerOut.exe
